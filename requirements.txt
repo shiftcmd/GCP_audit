@@ -1,0 +1,28 @@
+# GCP Infrastructure Audit and Rollback Tool Requirements
+
+# Core Google Cloud libraries
+google-cloud-resource-manager
+google-cloud-iam
+google-cloud-compute
+google-cloud-storage
+google-cloud-container
+google-cloud-dns
+google-cloud-monitoring
+google-cloud-logging
+google-cloud-firestore
+google-cloud-pubsub
+google-cloud-functions
+google-cloud-run
+google-cloud-asset
+
+
+# Google API client libraries
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Additional dependencies
+requests
+python-dateutil
+pyfiglet
